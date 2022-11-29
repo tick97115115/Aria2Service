@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aria2Service", "Aria2Service\Aria2Service.csproj", "{6F205A01-A91B-420E-BEC9-4A257E7D932D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aria2ServiceTest", "Aria2ServiceTest\Aria2ServiceTest.csproj", "{C556C07F-2D6E-4929-83E7-82738E11D4AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F205A01-A91B-420E-BEC9-4A257E7D932D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F205A01-A91B-420E-BEC9-4A257E7D932D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F205A01-A91B-420E-BEC9-4A257E7D932D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F205A01-A91B-420E-BEC9-4A257E7D932D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C556C07F-2D6E-4929-83E7-82738E11D4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C556C07F-2D6E-4929-83E7-82738E11D4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C556C07F-2D6E-4929-83E7-82738E11D4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C556C07F-2D6E-4929-83E7-82738E11D4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15BDFA91-8747-49D3-B4A6-A0DA196DC77F}
+	EndGlobalSection
+EndGlobal
